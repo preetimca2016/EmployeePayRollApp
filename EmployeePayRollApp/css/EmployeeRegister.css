@@ -1,0 +1,30 @@
+/* UC1:Add logo*/
+.header{
+    padding: 40px 0;
+}
+.header-container{
+    display: flex;
+    font: normal normal bold 22px/25px Montserrat;
+    align-items: center;
+    border: 0px solid red;
+    margin-left: 100px;
+    background: #FFFFFF;
+}
+img{
+    width: 45px;
+}
+.text-container{
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+    color: #42515f;
+    border: 0px solid blue;
+
+}
+.emp-txt{
+    color: yellowgreen;
+}
+.payroll-txt{
+    color: blue;
+}
+* { box-sizing: border-box; }
