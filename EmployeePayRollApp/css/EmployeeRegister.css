@@ -180,4 +180,7 @@ select {
       flex-direction: column-reverse;
       align-items: flex-start;
     }
-  }
+    .cancelButton {
+        margin-left: 100px;
+    }
+}
